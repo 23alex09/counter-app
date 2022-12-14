@@ -6,6 +6,6 @@ import './index.css';
 
 ReactDOM.createRoot( document.getElementById( 'root' ) ).render(
     <React.StrictMode>
-        <FirstApp title='Hello, World!' />
+        <CounterApp value={ 0 } />
     </React.StrictMode>
 )

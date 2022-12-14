@@ -1,5 +1,5 @@
-import { render, screen } from "@testing-library/react"
-import { FirstApp } from "../src/FirstApp"
+import { render, screen } from "@testing-library/react";
+import { FirstApp } from "../src/FirstApp";
 
 describe( 'test suit for FirstApp component', () => {
 
